@@ -32,11 +32,11 @@
 ### 🇬🇧 English
 ```javascript
 const tatsuyato = {
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript"],
     technologies: {
         frontEnd: ["React", "Next.js", "Tailwind CSS"],
         backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL"],
+        databases: ["MongoDB"],
         tools: ["Git", "VS Code", "Linux"]
     },
     currentFocus: "Building innovative web applications",
@@ -53,11 +53,11 @@ const tatsuyato = {
 ### 🇹🇭 ไทย
 ```javascript
 const ทัตสึยาโตะ = {
-    ภาษาโปรแกรม: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    ภาษาโปรแกรม: ["JavaScript", "TypeScript"],
     เทคโนโลยี: {
         ส่วนหน้า: ["React", "Next.js", "Tailwind CSS"],
         ส่วนหลัง: ["Node.js", "Express.js"],
-        ฐานข้อมูล: ["MongoDB", "PostgreSQL"],
+        ฐานข้อมูล: ["MongoDB",],
         เครื่องมือ: ["Git", "VS Code", "Linux"]
     },
     โฟกัสปัจจุบัน: "สร้างเว็บแอปพลิเคชันที่นวัตกรรม",
@@ -220,7 +220,7 @@ const ทัตสึยาโตะ = {
 
 ---
 
-## 📝 Language Files | ไฟล์ภาษา
+<!--## 📝 Language Files | ไฟล์ภาษา
 
 This README is available in multiple languages:
 - 🇬🇧 [English](README.md)
@@ -228,4 +228,4 @@ This README is available in multiple languages:
 
 README นี้มีให้ในหลายภาษา:
 - 🇬🇧 [อังกฤษ](README.md)  
-- 🇹🇭 [ไทย](README_TH.md)
+- 🇹🇭 [ไทย](README_TH.md)-->
