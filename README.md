@@ -34,7 +34,7 @@ const tatsuyato = {
   location: "Thailand 🇹🇭",
   mindset: "Learn • Build • Share"
 };
-`
+```
 
 - 💻 Passionate about building real-world web applications
 - 🌱 Currently learning modern React patterns and backend architecture
