@@ -107,7 +107,7 @@ Studying since last year – Present
 ## 📫 Contact
 
 - GitHub: https://github.com/Tatsuyato  
-- Email: your-email@example.com  
+- Email: ******
 
 ---
 
